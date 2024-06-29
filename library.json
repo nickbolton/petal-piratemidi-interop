@@ -1,0 +1,19 @@
+{
+  "name": "petal-piratemidi-interop",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": "",
+  "authors":
+  [
+    {
+      "name": "Nick Bolton",
+      "email": "nick@tubebreakup.com"
+    }
+  ],
+  "dependencies": {
+    "arduino-libraries/ArduinoBLE": "~1.3.6",
+    "fortyseveneffects/MIDI Library": "~5.0.2"
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
