@@ -22,4 +22,4 @@ public:
   void processLoop();
  };
 
-#define PETAL_CREATE_INSTANCE PetalInteroperability *PETAL_INTEROP = new PetalInteroperabilityImpl
+#define PETAL_CREATE_INSTANCE PetalInteroperability * PETAL = new PetalInteroperabilityImpl
